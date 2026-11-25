@@ -1,6 +1,6 @@
 {
   "name": "ComaProtect",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/ssc123321/ComaProtect",
   "description": "While you are passed out, the death timer no longer ticks up. Holding E to give up still works.",
   "dependencies": []

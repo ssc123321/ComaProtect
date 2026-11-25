@@ -11,7 +11,7 @@ namespace ABUF.ComaProtect
     {
         public const string Guid = "abuf.comaprotect";
         public const string PluginName = "Coma Protection";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public static ManualLogSource Log;
 
